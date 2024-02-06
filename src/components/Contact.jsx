@@ -90,7 +90,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <form className="w-full md:w-[400px] px-10" onSubmit={sendEmail}>
+        <form className="md:w-[400px] px-10" onSubmit={sendEmail}>
           <div className="flex flex-col sm:flex-row  sm:space-y-0 sm:space-x-2">
             <div className="space-y-2 mr-2">
               <label className="block">First Name</label>

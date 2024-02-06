@@ -6,7 +6,7 @@ const Project5 = () => {
       <section className="flex flex-col w-full">
         <div className="flex flex-col items-center">
           <h1 className="text-2xl  text-center">MindGlow</h1>
-          <div className="w-[600px] p-10">
+          <div className="max-w-[500px] p-10">
             <p>
               Balance and Restoration: The primary objective of this project is
               to help young creatives find the equilibrium between their
